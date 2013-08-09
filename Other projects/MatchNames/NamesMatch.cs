@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class NamesPersonMatch
+class NamesMatch
 {
     static void Main()
     {
