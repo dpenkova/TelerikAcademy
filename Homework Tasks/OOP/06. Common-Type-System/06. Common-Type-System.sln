@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02.03. Student", "Student\01.02.03. Student.csproj", "{FCF46B7B-E2DE-47AD-BE3B-F3D44387DB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Person", "Person\04. Person.csproj", "{64255EEB-0520-4554-BE78-10CAD863B2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BitArray", "BitArray\05. BitArray.csproj", "{BA4F8413-DC0A-480B-B44F-35E46E961038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF46B7B-E2DE-47AD-BE3B-F3D44387DB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF46B7B-E2DE-47AD-BE3B-F3D44387DB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF46B7B-E2DE-47AD-BE3B-F3D44387DB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF46B7B-E2DE-47AD-BE3B-F3D44387DB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64255EEB-0520-4554-BE78-10CAD863B2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64255EEB-0520-4554-BE78-10CAD863B2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64255EEB-0520-4554-BE78-10CAD863B2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64255EEB-0520-4554-BE78-10CAD863B2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4F8413-DC0A-480B-B44F-35E46E961038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4F8413-DC0A-480B-B44F-35E46E961038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4F8413-DC0A-480B-B44F-35E46E961038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4F8413-DC0A-480B-B44F-35E46E961038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

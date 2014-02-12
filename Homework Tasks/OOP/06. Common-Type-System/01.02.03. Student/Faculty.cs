@@ -1,0 +1,29 @@
+﻿namespace Student
+{
+    public enum Faculty
+    {
+        History,
+        Philosophy,
+        Law,
+        Theology,
+        Journalism,
+        EconomicsAndBA,
+        MathematicsAndInformatics,
+        Physics,
+        ChemistryAndPharmacy,
+        Biology,
+        GeologyAndGeography,
+        Medicine,
+        GeneralEconomics,
+        Business, 
+        ManagementAndAdministration, 
+        FinancesAndAccountancy,
+        Automatics,
+        ElectricalEngineering,
+        IndustrialTechnology,
+        MechanicalEngineering,
+        Telecommunications,
+        ComputerSystemsAndControl,
+        Transport,
+    }
+}
